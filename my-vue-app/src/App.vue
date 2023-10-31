@@ -1,6 +1,8 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<a > 
+  <img alt="INVIZ logo" src="./assets/Logo.png">
+</a>
+  <HelloWorld msg="Welcome to INVIZ"/>
 </template>
 
 <script>
@@ -15,12 +17,16 @@ export default {
 </script>
 
 <style>
+
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Roboto, Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: white;
   margin-top: 60px;
+  background-color: rgb(0, 155, 183);
+
 }
 </style>
