@@ -1,7 +1,7 @@
 <template>
-<a > 
+<router-link to="/"> 
   <img alt="INVIZ logo" src="./assets/Logo.png">
-</a>
+</router-link>
   <HelloWorld msg="Welcome to INVIZ"/>
 </template>
 
